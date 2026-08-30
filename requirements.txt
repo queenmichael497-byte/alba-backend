@@ -1,4 +1,4 @@
 fastapi
-uvicorn
-naijalingo-asr[audio]
-python-multipart
+uvicorn[standard]
+groq
+pydantic
